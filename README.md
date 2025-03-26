@@ -1,5 +1,7 @@
 # FBI Crime Analysis
 
+![FBI](https://github.com/akashmailar/FBI-Crime-Analysis/blob/main/fbi-crest.jpg)
+
 ### 📌 Project Type: Exploratory Data Analysis (EDA) and Dashboard Creation
 
 ### 👤 Contribution: Individual
