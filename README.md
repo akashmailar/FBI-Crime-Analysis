@@ -1,4 +1,4 @@
-# FBI Crime Analysis
+# FBI (Federal Bureau of Investigation) Crime Analysis
 
 ![FBI](https://github.com/akashmailar/FBI-Crime-Analysis/blob/main/fbi-crest.jpg)
 
