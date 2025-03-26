@@ -21,6 +21,21 @@ This project conducts an in-depth **Exploratory Data Analysis (EDA)** and **Time
 - **`Train.xlsx and Cleaned_FBI_Crime_Data.xlsx` →** FBI crime data (Train.xlsx) and the cleaned dataset (Cleaned_FBI_Crime_Data.xlsx) after EDA.
 
 
+## 🛠 Technologies & Libraries Used
+
+This project is built using Python and several data science libraries:
+
+- 🐍 **Python -** Core programming language
+
+- 📓 **Jupyter Notebook -** Interactive coding environment
+
+- 📊 **Pandas -** Data manipulation and analysis
+
+- 🔢 **NumPy -** Numerical computations
+
+- 📈 **Power BI -** Data visualization & Dashboard creation.
+
+
 ## 📊 Dashboard Overview
 
 
@@ -41,3 +56,78 @@ This project conducts an in-depth **Exploratory Data Analysis (EDA)** and **Time
 - **🏙️ Crimes by Neighborhood:** A treemap visualization showing crime distribution across neighborhoods.
 
 - **🚔 Crimes by Type:** A detailed breakdown of various crime categories.
+
+
+### Jupyter Notebook (EDA) Highlights
+
+- **✅ Data Cleaning & Preprocessing:** Handling missing values, correcting data formats, and filtering out anomalies.
+
+- **🔢 Statistical Summary:** Understanding crime distributions using descriptive statistics.
+
+- **🔄 Time Series Analysis:** Examining crime trends over time using moving averages and seasonal decomposition.
+
+- **📊 Correlation Analysis:** Investigating relationships between crime types and different time factors.
+
+- **📉 Visualization & Insights:** Creating line charts, bar graphs, and heatmaps for deeper data understanding.
+
+
+## ⚙️ Installation & Usage
+
+### For Power BI Dashboard
+
+1. Download and install **Microsoft Power BI Desktop**.
+
+2. Open **`FBI - Time Series Analysis Dashboard.pbix`** in Power BI.
+
+3. Interact with the visualizations to explore crime trends.
+
+
+### For Jupyter Notebook (EDA)
+
+1. **Clone this repository:**
+```
+  git clone https://github.com/akashmailar/FBI-Crime-Analysis.git
+```
+
+2. **Navigate to the project folder:**
+```
+  cd FBI-Crime-Analysis
+```
+
+3. **Install dependencies:**
+```
+  pip install pandas numpy matplotlib seaborn jupyter
+```
+
+4. **Open the Jupyter Notebook:**
+```
+  jupyter notebook "FBI Time Series EDA.ipynb"
+```
+
+
+## 📜 License
+
+📄 This project is licensed under the **MIT License**. You are free to use, modify, and distribute this work with appropriate credit.
+
+
+## 🤝 Contributing
+
+🎯 Contributions are welcome! If you'd like to enhance this project:
+
+1. 🍴 **Fork the repository.**
+
+2. 🛠 **Make your changes.**
+
+3. 📩 **Submit a pull request for review.**
+
+
+## 📬 Contact
+
+For any questions, suggestions, or collaboration opportunities, feel free to reach out:
+
+- 📧 **Email:** akashmailar143@gmail.com
+
+- 🔗 **GitHub:** [Akash Mailar](https://github.com/akashmailar)
+
+
+## 🙏 *Thank You!!!*
