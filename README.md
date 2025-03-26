@@ -35,6 +35,10 @@ This project is built using Python and several data science libraries:
 
 - 🔢 **NumPy -** Numerical computations
 
+- 📈 **Matplotlib -** Data visualization
+
+- 🎨 **Seaborn -** Statistical data visualization
+
 - 📈 **Power BI -** Data visualization & Dashboard creation.
 
 ---
