@@ -9,6 +9,7 @@
 
 This project conducts an in-depth **Exploratory Data Analysis (EDA)** and **Time Series Analysis** on ***FBI*** crime data from 1999 to 2011. The goal is to uncover trends, patterns, and insights related to crimes reported over time. The analysis is performed using **Python (Jupyter Notebook)** for data preprocessing and statistical exploration, while **Power BI** dashboard offers an interactive interface to explore crime distribution across different factors such as **time of day, day of the week, neighborhood, and crime type**.
 
+---
 
 ## 📂 Repository Contents
 
@@ -20,6 +21,7 @@ This project conducts an in-depth **Exploratory Data Analysis (EDA)** and **Time
 
 - **`Train.xlsx and Cleaned_FBI_Crime_Data.xlsx` →** FBI crime data (Train.xlsx) and the cleaned dataset (Cleaned_FBI_Crime_Data.xlsx) after EDA.
 
+---
 
 ## 🛠 Technologies & Libraries Used
 
@@ -35,11 +37,12 @@ This project is built using Python and several data science libraries:
 
 - 📈 **Power BI -** Data visualization & Dashboard creation.
 
+---
 
 ## 📊 Dashboard Overview
 
 
-
+---
 
 ## 🔍 Key Insights & Features
 
@@ -70,6 +73,7 @@ This project is built using Python and several data science libraries:
 
 - **📉 Visualization & Insights:** Creating line charts, bar graphs, and heatmaps for deeper data understanding.
 
+---
 
 ## ⚙️ Installation & Usage
 
@@ -104,11 +108,13 @@ This project is built using Python and several data science libraries:
   jupyter notebook "FBI Time Series EDA.ipynb"
 ```
 
+---
 
 ## 📜 License
 
 📄 This project is licensed under the **MIT License**. You are free to use, modify, and distribute this work with appropriate credit.
 
+---
 
 ## 🤝 Contributing
 
@@ -120,6 +126,7 @@ This project is built using Python and several data science libraries:
 
 3. 📩 **Submit a pull request for review.**
 
+---
 
 ## 📬 Contact
 
@@ -129,5 +136,6 @@ For any questions, suggestions, or collaboration opportunities, feel free to rea
 
 - 🔗 **GitHub:** [Akash Mailar](https://github.com/akashmailar)
 
+---
 
 ## 🙏 *Thank You!!!*
